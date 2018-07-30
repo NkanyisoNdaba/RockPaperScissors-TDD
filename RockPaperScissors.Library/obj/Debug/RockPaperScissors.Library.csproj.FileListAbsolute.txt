@@ -1,0 +1,6 @@
+C:\Systems\Katas\C#\RockPaperScissors\RockPaperScissors.Library\RockPaperScissors.Library\bin\Debug\RockPaperScissors.Library.dll
+C:\Systems\Katas\C#\RockPaperScissors\RockPaperScissors.Library\RockPaperScissors.Library\bin\Debug\RockPaperScissors.Library.pdb
+C:\Systems\Katas\C#\RockPaperScissors\RockPaperScissors.Library\RockPaperScissors.Library\obj\Debug\RockPaperScissors.Library.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\RockPaperScissors\RockPaperScissors.Library\RockPaperScissors.Library\obj\Debug\RockPaperScissors.Library.dll
+C:\Systems\Katas\C#\RockPaperScissors\RockPaperScissors.Library\RockPaperScissors.Library\obj\Debug\RockPaperScissors.Library.pdb
+C:\Systems\Katas\C#\RockPaperScissors\RockPaperScissors.Library\RockPaperScissors.Library\obj\Debug\RockPaperScissors.Library.csprojResolveAssemblyReference.cache
